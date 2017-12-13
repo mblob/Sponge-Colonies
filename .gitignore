@@ -20,9 +20,9 @@ whitelist.json
 
 *.jar
 *.zip
-
+**/*.db
 **/*.jar
 **/*.zip
 
-
-
+**/ClaimData
+**/PlayerCache.json
