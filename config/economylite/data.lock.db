@@ -1,0 +1,6 @@
+#FileLock
+#Wed Dec 13 13:36:03 CET 2017
+hostName=localhost
+id=1604fdfecd95eb850ce93cae968f8b3a672a52e7b16
+method=file
+server=localhost\:34601

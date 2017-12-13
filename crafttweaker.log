@@ -1,3 +1,32 @@
 [INITIALIZATION][SERVER][INFO] CraftTweaker: Building registry
 [INITIALIZATION][SERVER][INFO] CraftTweaker: Successfully built item registry
 [INITIALIZATION][SERVER][INFO] Loading scripts
+[INITIALIZATION][SERVER][INFO] [crafttweaker | SIDE_SERVER]: Loading Script: {[0:crafttweaker]: furnace_hacks.zs}
+[POSTINITIALIZATION][SERVER][INFO] Removing furnace recipes for: <minecraft:iron_ingot>
+[POSTINITIALIZATION][SERVER][INFO] 3 recipes removed for: <minecraft:iron_ingot>
+[POSTINITIALIZATION][SERVER][INFO] Removing furnace recipes for: <minecraft:gold_ingot>
+[POSTINITIALIZATION][SERVER][INFO] 3 recipes removed for: <minecraft:gold_ingot>
+[POSTINITIALIZATION][SERVER][INFO] Removing furnace recipes for: <forestry:ingot_copper>
+[POSTINITIALIZATION][SERVER][INFO] 1 recipes removed for: <forestry:ingot_copper>
+[POSTINITIALIZATION][SERVER][INFO] Removing furnace recipes for: <forestry:ingot_tin>
+[POSTINITIALIZATION][SERVER][INFO] 1 recipes removed for: <forestry:ingot_tin>
+[POSTINITIALIZATION][SERVER][INFO] Removing furnace recipes for: <forestry:ingot_bronze>
+[POSTINITIALIZATION][SERVER][INFO] 0 recipes removed for: <forestry:ingot_bronze>
+[POSTINITIALIZATION][SERVER][INFO] Removing furnace recipes for: <immersiveengineering:metal>
+[POSTINITIALIZATION][SERVER][INFO] 2 recipes removed for: <immersiveengineering:metal>
+[POSTINITIALIZATION][SERVER][INFO] Removing furnace recipes for: <immersiveengineering:metal:1>
+[POSTINITIALIZATION][SERVER][INFO] 2 recipes removed for: <immersiveengineering:metal:1>
+[POSTINITIALIZATION][SERVER][INFO] Removing furnace recipes for: <immersiveengineering:metal:2>
+[POSTINITIALIZATION][SERVER][INFO] 2 recipes removed for: <immersiveengineering:metal:2>
+[POSTINITIALIZATION][SERVER][INFO] Removing furnace recipes for: <immersiveengineering:metal:3>
+[POSTINITIALIZATION][SERVER][INFO] 2 recipes removed for: <immersiveengineering:metal:3>
+[POSTINITIALIZATION][SERVER][INFO] Removing furnace recipes for: <immersiveengineering:metal:4>
+[POSTINITIALIZATION][SERVER][INFO] 2 recipes removed for: <immersiveengineering:metal:4>
+[POSTINITIALIZATION][SERVER][INFO] Removing furnace recipes for: <immersiveengineering:metal:5>
+[POSTINITIALIZATION][SERVER][INFO] 2 recipes removed for: <immersiveengineering:metal:5>
+[POSTINITIALIZATION][SERVER][INFO] Removing furnace recipes for: <immersiveengineering:metal:6>
+[POSTINITIALIZATION][SERVER][INFO] 1 recipes removed for: <immersiveengineering:metal:6>
+[POSTINITIALIZATION][SERVER][INFO] Removing furnace recipes for: <immersiveengineering:metal:7>
+[POSTINITIALIZATION][SERVER][INFO] 1 recipes removed for: <immersiveengineering:metal:7>
+[POSTINITIALIZATION][SERVER][INFO] Removing furnace recipes for: <immersiveengineering:metal:8>
+[POSTINITIALIZATION][SERVER][INFO] 1 recipes removed for: <immersiveengineering:metal:8>
